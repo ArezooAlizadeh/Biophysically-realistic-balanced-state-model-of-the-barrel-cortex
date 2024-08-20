@@ -1,6 +1,7 @@
 # Biophysically-realistic-balanced-state-model-of-the-barrel-cortex
 
 Please cite this paper when using these codes:
+
 Alizadeh A, Englitz B, Zeldenrust F (2023) Biophysically realistic balanced state model of the barrel cortex. Bernstein Conference 2023. doi: 10.12751/nncn.bc2023.358
 
 network_sim.py  
