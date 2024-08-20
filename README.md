@@ -12,6 +12,7 @@ network_sim.py
 
 parameters_sim.py  
                       -- asks user input for network configuration (r) and corresponding excitatory (e) and inhibitory (i) neuron numbers in layer 2/3 (L2/3) and layer 4 (L4) of the barrel cortex
+
 r is ratio of excitatory to inhibitory neurons
 
 *	r = 0 (7.35 - L4 and 5.25 - L2/3)  
