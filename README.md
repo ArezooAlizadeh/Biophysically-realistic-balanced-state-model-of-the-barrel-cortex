@@ -1,5 +1,7 @@
 # Biophysically-realistic-balanced-state-model-of-the-barrel-cortex
 
+A biologically inspired balanced network model of a cortical column from the barrel cortex, created by experimentally driven adaptations of the classical balanced network: 1) the number of neurons and 2) the ratio of inhibitory to excitatory neurons are determined by experimentally measured neural densities [3]. 3) The model has local rather than random connections and 4) possesses granular (L4) and supragranular (L2/3) layers and 5) input comes from diverging local feed-forward connections from a thalamic layer. 
+
 Please cite this paper when using these codes:
 
 Alizadeh A, Englitz B, Zeldenrust F (2023) Biophysically realistic balanced state model of the barrel cortex. Bernstein Conference 2023. doi: 10.12751/nncn.bc2023.358
